@@ -14,9 +14,9 @@ body {
 .chatbot-toggler {
     position: fixed;
     right: 40px;
-    bottom: 35px;
-    height: 50px;
-    width: 50px;
+    bottom: 10px;
+    height: 40px;
+    width: 40px;
     background-color: #724ae8;
     outline: none;
     border-radius: 50%;
@@ -47,9 +47,9 @@ body {
 
 .chatbot {
     position: fixed;
-    right: 40px;
-    bottom: 100px;
-    width: 420px;
+    right: 100px;
+    bottom: 40px;
+    width: 390px;
     transform: scale(0.5);
     opacity: 0;
     pointer-events: none;
